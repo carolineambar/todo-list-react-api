@@ -1,0 +1,20 @@
+{
+  "name": "todo-list-react-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolineambar/todo-list-react-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolineambar/todo-list-react-api/issues"
+  },
+  "homepage": "https://github.com/carolineambar/todo-list-react-api#readme",
+  "start": "node index.js"
+}
