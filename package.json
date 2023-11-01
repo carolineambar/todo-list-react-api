@@ -1,15 +1,23 @@
 {
-  "name": "json-server-todolist",
+  "name": "todo-list-api",
   "version": "1.0.0",
-  "type": "module",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leandrocarneiro94/todo-list-api.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leandrocarneiro94/todo-list-api/issues"
+  },
+  "homepage": "https://github.com/Leandrocarneiro94/todo-list-api#readme",
   "dependencies": {
     "json-server": "^0.17.4"
   }
