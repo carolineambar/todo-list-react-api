@@ -1,22 +1,15 @@
 {
-  "name": "todo-list-react-api",
+  "name": "json-server-todolist",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/carolineambar/todo-list-react-api.git"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/carolineambar/todo-list-react-api/issues"
-  },
-  "homepage": "https://github.com/carolineambar/todo-list-react-api#readme",
   "dependencies": {
     "json-server": "^0.17.4"
   }
